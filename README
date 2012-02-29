@@ -1,10 +1,10 @@
 # json-benchmark
 
-FIXME: write description
+Basic benchmarks for json-zetta library
 
 ## Usage
 
-FIXME: write
+lein run
 
 ## License
 
